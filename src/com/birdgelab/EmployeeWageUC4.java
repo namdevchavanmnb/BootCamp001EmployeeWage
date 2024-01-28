@@ -1,6 +1,6 @@
 package com.birdgelab;
 
-public class EmpoyeeWageUC4 {
+public class EmployeeWageUC4 {
     public static final int is_Part_Time =1;
     public static final int is_Full_Time =2;
     public static final int is_Emp_Rate_Per_Hour =20;
